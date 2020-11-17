@@ -1,0 +1,7 @@
+.screen-header {
+  display: flex;
+}
+
+.screen-header__icon {
+  flex-direction: row;
+}

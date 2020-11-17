@@ -1,0 +1,28 @@
+.main-screen {
+  background-color: var(--main-color);
+  color: var(--sub-color);
+  padding: var(--horizontal-space);
+}
+
+.main-screen__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-screen__title {
+  text-align: center;
+}
+
+.main-screen__text {
+  text-decoration: none;
+}
+
+.main-screen__form {
+}
+
+.main-screen__form a {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+@import "variable.css";
+
+/*screen*/
+@import "main.css";
+
+/*components*/
+@import "components/screen-header.css";
